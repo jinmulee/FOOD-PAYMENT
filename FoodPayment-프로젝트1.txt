@@ -1,5 +1,6 @@
+edit1
 //----------------------
---È­¸é ÀÌ¸§
+--í™”ë©´ ì´ë¦„
 Main		-id- 
 MenuSelect
 TableSelect
@@ -17,7 +18,7 @@ btnLogin
 -----------------
 
 JoinForm-------
-textView  (ÀÌº¥Æ®Ã³¸®¿µÇâ¾È¹ŞÀ½)
+textView  (ì´ë²¤íŠ¸ì²˜ë¦¬ì˜í–¥ì•ˆë°›ìŒ)
 editJoinId
 editJoinPwd
 editName
@@ -28,7 +29,7 @@ btnCancelJoin
 ----------------
 
 LoginForm-----
-TextView  (ÀÌº¥Æ®Ã³¸®¿µÇâ¾È¹ŞÀ½)
+TextView  (ì´ë²¤íŠ¸ì²˜ë¦¬ì˜í–¥ì•ˆë°›ìŒ)
 editLoginId
 editLoginPwd
 btnBack2
@@ -71,8 +72,8 @@ btnCancelDelivery
 
 list_item--------
 imageView
-textView1(»çÀÌÁî¹Ìµğ¿ò)
-textView2(»çÀÌÁî±×´ë·Î)
+textView1(ì‚¬ì´ì¦ˆë¯¸ë””ì›€)
+textView2(ì‚¬ì´ì¦ˆê·¸ëŒ€ë¡œ)
 -----------------
 
 FoodList---------
