@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tableSelect"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a508_11.foodpayment.TableSelect_Activity">
+
+    <Button
+        android:id="@+id/btnTable1"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:text="1번"
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="60dp" />
+
+    <Button
+        android:id="@+id/btnTable2"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:text="2번"
+        tools:layout_editor_absoluteX="207dp"
+        tools:layout_editor_absoluteY="60dp" />
+
+    <Button
+        android:id="@+id/btnTable3"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:text="3번"
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="158dp" />
+
+    <Button
+        android:id="@+id/btnTable4"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:text="4번"
+        tools:layout_editor_absoluteX="207dp"
+        tools:layout_editor_absoluteY="158dp" />
+
+    <Button
+        android:id="@+id/btnTable5"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:text="5번"
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="255dp" />
+
+    <Button
+        android:id="@+id/btnTable6"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:text="6번"
+        tools:layout_editor_absoluteX="207dp"
+        tools:layout_editor_absoluteY="255dp" />
+
+    <Button
+        android:id="@+id/btnTable7"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:text="7번"
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="357dp" />
+
+    <Button
+        android:id="@+id/btnTable8"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:text="8번"
+        tools:layout_editor_absoluteX="207dp"
+        tools:layout_editor_absoluteY="357dp" />
+
+    <Button
+        android:id="@+id/btnBack3"
+        android:layout_width="161dp"
+        android:layout_height="47dp"
+        android:text="뒤로"
+        tools:layout_editor_absoluteX="207dp"
+        tools:layout_editor_absoluteY="461dp" />
+
+</android.support.constraint.ConstraintLayout>

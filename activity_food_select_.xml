@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a508_11.foodpayment.FoodSelect_Activity">
+
+    <Button
+        android:id="@+id/btnLunch"
+        android:layout_width="130dp"
+        android:layout_height="110dp"
+        android:text="식사"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="91dp" />
+
+    <Button
+        android:id="@+id/btnCook1"
+        android:layout_width="130dp"
+        android:layout_height="110dp"
+        android:text="삼계탕"
+        tools:layout_editor_absoluteX="210dp"
+        tools:layout_editor_absoluteY="91dp" />
+
+    <Button
+        android:id="@+id/btnCook2"
+        android:layout_width="130dp"
+        android:layout_height="110dp"
+        android:text="닭볶음탕"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="266dp" />
+
+    <Button
+        android:id="@+id/btnCook3"
+        android:layout_width="130dp"
+        android:layout_height="110dp"
+        android:text="해물탕"
+        tools:layout_editor_absoluteX="210dp"
+        tools:layout_editor_absoluteY="266dp" />
+
+    <Button
+        android:id="@+id/btnCancelReservation"
+        android:layout_width="130dp"
+        android:layout_height="50p"
+        android:text="예약취소"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="447dp" />
+
+    <Button
+        android:id="@+id/btnCancelDelivery"
+        android:layout_width="130dp"
+        android:layout_height="50p"
+        android:text="배달취소"
+        tools:layout_editor_absoluteX="210dp"
+        tools:layout_editor_absoluteY="447dp" />
+</android.support.constraint.ConstraintLayout>
